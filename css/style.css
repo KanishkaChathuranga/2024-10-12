@@ -1,4 +1,18 @@
-.box{
+/* .box{
+   background-color: rgb(31, 30, 30);
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin: 20px;
+  
+    
+}
+
+.relative{
+
     background-color: aquamarine;
     height: 100px;
     width: 100px;
@@ -6,5 +20,61 @@
     position: relative;
     top: 50px;
     left: 50px;
+    margin: 20px;
+}
+
+.fixed{
+    background-color:brown;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    position: fixed;
+    top: 50px;
+    left: 700px;
+    margin: 20px;
+
 
 }
+
+.sticky{
+
+    background-color:blue;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    position: sticky;
+    top: 50px;
+    left: 300px;
+    margin: 20px;
+
+    z-index: -1;
+
+} */
+
+.link {
+    background-color: darkseagreen;
+    padding: 50px;
+    text-decoration: none;
+    position: relative;
+    left: 500px;
+
+    /* display: none; */
+
+}
+
+/* .link:hover {
+    background-color: crimson;
+    font-size: large;
+    font-weight: bold;
+} */
+
+
+/* 
+.link:active{
+
+    background-color: blue;
+} */
+
+/* ::selection{
+    background: yellow;
+} */
